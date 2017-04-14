@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<ArrayOfXmlModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XmlModel>
+    <ObjectType>Box</ObjectType>
+  </XmlModel>
+  <XmlModel>
+    <ObjectType>Meteor</ObjectType>
+  </XmlModel>
+  <XmlModel>
+    <ObjectType>Monster</ObjectType>
+  </XmlModel>
+  <XmlModel>
+    <ObjectType>Coin</ObjectType>
+  </XmlModel>
+</ArrayOfXmlModel>
